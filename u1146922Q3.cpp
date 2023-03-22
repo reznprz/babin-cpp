@@ -57,7 +57,7 @@ int main()
         // error handling for corrupted file
         if (!myfile)
         { // file couldn't be opened
-            cerr << "Error: file could not be opened" << endl;
+            cerr << "file could not be opened" << endl;
             exit(1);
         }
 
