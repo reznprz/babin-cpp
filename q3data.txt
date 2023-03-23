@@ -1,4 +1,4 @@
-Student ONE
+Student ONE 
 CSC1234
 91.0
 Student TWO
@@ -7,3 +7,9 @@ CSC1222
 Student THREE
 CSC1211
 81.0
+Student FOUR
+CSC4567
+56.034
+Student FIVE
+CSC5678
+75.755

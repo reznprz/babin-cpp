@@ -9,12 +9,12 @@ struct Student
 {
     string name;
     string course;
-    double mark;
+    float mark;
     string grade;
 };
 
 // calucation func
-string calculateGrade(double mark)
+string calculateGrade(float mark)
 {
     if (mark >= 85.0)
     {
@@ -58,7 +58,7 @@ int main()
         cin >> course;
 
         // input mark
-        double mark;
+        float mark;
         cin >> mark;
 
         string grade = calculateGrade(mark);
